@@ -7,3 +7,8 @@ int function1()
 
    return 1;
 }
+
+void fun2()
+{
+	std::cout << "nowa funkcja - fun2()" << std::endl;
+}
