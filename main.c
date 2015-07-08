@@ -8,6 +8,7 @@
 int main(int argc, char *argv[])
 {
 	printf("hello v3.1.2\n");
-	printf("branchi #54 case\n");
+	printf("branch for master\n");
+
 	return 0;
 }
