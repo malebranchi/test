@@ -5,5 +5,5 @@ int function1()
 {
    std::cout << "hello from functio1" << std::endl;
 
-   return 0;
+   return 1;
 }
