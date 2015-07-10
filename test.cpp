@@ -14,3 +14,10 @@ int fun2()
 
 	return 2;
 }
+
+int funExperiment()
+{
+	std::cout << "experminal funciton - be carefull!!!" << std::endl;
+
+	return 0;
+}
