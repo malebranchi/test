@@ -12,5 +12,5 @@ int fun2()
 {
 	std::cout << "nowa funkcja - fun2()" << std::endl;
 
-	return 0;
+	return 2;
 }
