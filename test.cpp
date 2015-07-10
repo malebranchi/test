@@ -19,5 +19,5 @@ int funExperiment()
 {
 	std::cout << "experminal funciton - be carefull!!!" << std::endl;
 
-	return 0;
+	return 3;
 }
