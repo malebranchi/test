@@ -1,4 +1,5 @@
 //Author: malebranchi@gmail.com
+//Data: 13.07.2015
 
 #include <stdio.h>
 #include <string>
